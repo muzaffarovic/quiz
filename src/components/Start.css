@@ -1,0 +1,198 @@
+.card{
+    width: 100%;
+    height: 100vh;
+	background: rgb(66,0,255);
+    background: radial-gradient(circle, rgba(66,0,255,1) 0%, rgba(0,11,35,1) 80%);
+}
+.card-content{
+    width: 100%;
+    height: 100%;
+}
+b{
+    color: #fff;
+    font-size: 20px;
+    padding-top: 30%;
+    z-index: 10;
+    position: absolute;
+    margin-left: 75%;
+}
+.timer{
+    width: 25px;
+    height: 25px;
+}
+.con{
+    color: #fff;
+    font-size: 30px;
+    margin-left: 10%;
+    margin-top: 30%;
+    z-index: 10;
+    position: absolute;
+}
+.content{
+    width: 100%;
+    height: 100%;
+}
+.logo{
+    width: 40%;
+    height: 10%;
+    margin-left: 30%;
+    margin-top: 10%;
+}
+.content > h1{
+    color: aliceblue;
+    text-align: center;
+    font-family: Gilroy;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 800;
+    margin-top: 10%;
+    line-height: 96%; /* 33.6px */
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+}
+.content > p{
+    color: #FFF;
+text-align: center;
+font-family: Gilroy;
+font-size: 12px;
+font-style: normal;
+font-weight: 600;
+line-height: 125.5%; /* 15.06px */
+letter-spacing: 0.12px;
+text-transform: uppercase;
+margin-top: 5%;
+}
+.galochka{
+    width: 40%;
+    height: 20%;
+    margin-left: 30%;
+    margin-top: 10%;
+}
+.content > h5{
+    color: rgba(255, 255, 255, 0.52);
+    text-align: center;
+    font-family: Gilroy;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 125.5%; /* 12.55px */
+    letter-spacing: 0.1px;
+    text-transform: uppercase;
+    margin-top: 10%;
+}
+.content > button{
+    width: 20%;
+    height: 5%;
+    border: none;
+    border-radius: 30px;
+    color: #581DFF;
+    text-align: center;
+    font-family: Gilroy;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%; /* 16px */
+    letter-spacing: 0.16px;
+    text-transform: capitalize;
+    margin-left: 40%;
+    margin-top: 5%;
+}
+.content > h2{
+    color: #FFF;
+font-family: Gilroy;
+font-size: 22px;
+font-style: normal;
+font-weight: 700;
+line-height: 100%; /* 16px */
+text-transform: capitalize;
+margin-left: 10%;
+margin-top: 15%;
+}
+.control{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.control > label{
+    color: #FFF;
+    font-family: Gilroy;
+    border: 1px solid #fff;
+    margin-top: 2%;
+    font-size: 11px;
+    font-style: normal;
+    /* font-weight: 700; */
+    line-height: 100%; /* 11px */
+    text-transform: uppercase;
+}
+.has-text-danger{
+    color: red;
+    text-align: center;
+    margin-top: 5%;
+    font-size: 16px;
+}
+.content > h3{
+    color: #FFF;
+    font-family: Gilroy;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 5%;
+    line-height: 100%; /* 24px */
+    text-transform: capitalize;
+}
+.content > h6{
+    color: #FFF;
+    text-align: center;
+    font-family: Gilroy;
+    font-size: 16px;
+    font-style: normal;
+    margin-top: 5%;
+    font-weight: 700;
+    line-height: 100%; /* 16px */
+}
+.content > h4{
+    font-size: 150px;
+    margin-left: 37%;
+    margin-top: 3%;
+}
+/* .content > span{
+    color: #FFF;
+    margin-left: 45%;
+    margin-top: 3%;
+    font-family: Gilroy;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px; 
+} */
+.spa1{
+    color: #FFF;
+    margin-left: 45.5%;
+    margin-top: 3%;
+    font-family: Gilroy;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px; 
+}
+.spa2{
+    color: #FFF;
+    margin-left: 47%;
+    margin-top: 3%;
+    font-family: Gilroy;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px; 
+}
+.spa3{
+    color: #FFF;
+    margin-left: 37%;
+    margin-top: 3%;
+    font-family: Gilroy;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px; 
+}

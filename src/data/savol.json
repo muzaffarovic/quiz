@@ -1,0 +1,94 @@
+{
+    "data": [
+      {
+        "count": "1-Savol?",
+        "question": "HTML nimani anglatadi?",
+        "choices": ["А) HyperText Monkey Language", "b) Hope This Makes Lasagna", "c) How To Meet Ladies", "d) HyperText Markup Language"],
+        "answer": "d) HyperText Markup Language"
+      },
+      {
+        "count": "2-Savol?",
+        "question": "Python-da matnni ekranga qanday chiqarish kerak?",
+        "choices": ["А) print('Hello World!')", "b) document.write('Hello World!')", "c) console.log('Hello World!')", "d) output('Hello World!')"],
+        "answer": "А) print('Hello World!')"
+      },
+      {
+        "count": "3-Savol?",
+        "question": "HTML tilidagi qaysi teg sarlavha yaratadi?",
+        "choices": ["А) <footer>", "b) <h1>", "c) <p>", "d) <img>"],
+        "answer": "b) <h1>"
+        },
+        {
+          "count": "4-Savol?",
+        "question": "Tsikl dasturlashda nima?",
+        "choices": ["A) raqs harakati", "b) Kodning takrorlangan qismi", "c) koddagi xato", "d) mA’LUMOTLARNI cHIQARISH uSULI"],
+        "answer": "b) Kodning takrorlangan qismi"
+        },
+        {
+          "count": "5-Savol?",
+        "question": "Dasturlashda ma'lumotlar qayerda saqlanadi?",
+        "choices": ["A) O’zgaruvchilarda", "B) funksiyalarda", "C) ma’lumotlar bazasida", "d) klasslarda"],
+        "answer": "C) ma’lumotlar bazasida"
+        },
+        {
+          "count": "6-Savol?",
+        "question": "3ds Max da modellar yaratish uchun asosiy ob'ekt qanday nomlanadi?",
+        "choices": ["А) Mesh", "b) Spline", "c) Camera", "d) Light"],
+        "answer": "А) Mesh"
+        },
+        {
+          "count": "7-Savol?",
+        "question": "3D modelga nima tovush qo'shadi?",
+        "choices": ["A) MATERIALLAR VA TEKSTURLAR", "B) NOISE MODIFIKATORI", "c) yorug'lik manbai", "d) yuqoridagilarning barchasi"],
+        "answer": "c) yorug'lik manbai"
+        },
+        {
+          "count": "8-Savol?",
+        "question": "Sahnani tasvirlashdan oldin nima qilish kerak?",
+        "choices": ["A) Materiallar va teksturalarni yaratish", "b) yorUG’LIKNI o'rnatish", "C) KAMERANI O’RNATISH", "D) BARCHA JAVOBLAR TO’G’RI"],
+        "answer": "D) BARCHA JAVOBLAR TO’G’RI"
+        },
+        {
+          "count": "9-Savol?",
+        "question": "3ds Max-da materiallar qayerda sozlangan?",
+        "choices": ["A) MATERIALLAR REDAKTORIDA", "B) MODIFY OYNASIDA", "c) Rendering ilovasida", "d) moslashtirish menyusida"],
+        "answer": "A) MATERIALLAR REDAKTORIDA"
+        },
+        {
+          "count": "10-Savol?",
+        "question": "3ds Max da render sozlamalari qayerda yashiringan?",
+        "choices": ["A) Sozlamalar kabinetida", "b) maxfiy xonada", "c) Render Setup oynasida", "d) Sehrli qutida"],
+        "answer": "c) Render Setup oynasida"
+        },
+        {
+          "count": "11-Savol?",
+        "question": "Veb-sahifalar va fayllarni uzatish uchun qanday protokol ishlatiladi?",
+        "choices": ["А) FTP", "b) HTTP", "c) SMTP", "d) SSH"],
+        "answer": "b) HTTP"
+        },
+        {
+          "count": "12-Savol?",
+        "question": "IP-adres nima?",
+        "choices": ["A) Tarmoqdagi yagona qurilma raqami", "b) Wi-Fi paroli", "c) veb-sayt manzili", "d) VPN ulanish raqami"],
+        "answer": "A) Tarmoqdagi yagona qurilma raqami"
+        },
+        {
+          "count": "13-Savol?",
+        "question": "Faervol (xavfsizlik devori) nima?",
+        "choices": ["A) ANTIVIRUS", "B) SPAM-FILTR", "c) xakerlardan himoya", "d) Tarmoqqa kirishni bloklash"],
+        "answer": "d) Tarmoqqa kirishni bloklash"
+        },
+        {
+          "count": "14-Savol?",
+        "question": "Kompyuterlarni tarmoqqa ulash uchun ishlatiladigan texnik vositalar qanday nomlanadi?",
+        "choices": ["A) Router", "B) MONITOR", "C) VIDEOKARTA", "d) tarmoq kartasi"],
+        "answer": "d) tarmoq kartasi"
+        },
+        {
+          "count": "15-Savol?",
+        "question": "Tizim administratori nima qiladi?",
+        "choices": ["A) Dasturlaydi", "b) Kompyuterlar va tarmoqlarga xizmat ko'rsatadi", "c) Texnik yordam sohasida ishlaydi", "d) Ilovalarni sinovdan o'tkazadi"],
+        "answer": "b) Kompyuterlar va tarmoqlarga xizmat ko'rsatadi"
+        }
+    ]
+  }
